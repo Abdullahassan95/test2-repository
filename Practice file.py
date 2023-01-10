@@ -2,3 +2,7 @@
 a=12
 b=23
 print(a+b)
+
+function-1(a):
+    a=10
+    print(a+a)
